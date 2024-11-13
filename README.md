@@ -2,7 +2,7 @@
 <h3 align="center">🥇 IT Student 🥇</h3>
 
 # 👋 About Me:
-I'm a software developer with experience in full-stack development across various web frameworks, including React.js, Next.js, Vue.js, and Angular. I work with robust backend technologies like .NET, Spring Boot, and Node.js, allowing me to build dynamic, responsive, and scalable applications tailored to diverse requirements.
+I am a software developer with expertise in full-stack development, working with web frameworks such as React.js, Next.js, and Angular. I utilize powerful backend technologies like .NET, Spring Boot, and Node.js to create dynamic, responsive, and scalable applications designed to meet a wide range of needs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-bichiou-03a8882a2/) 
